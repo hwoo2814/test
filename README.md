@@ -31,12 +31,15 @@ https://www.naver.com
 
 줄바꿈 <br/> 줄바꿈줄바꿈 <br/에 > 까지 붙여주면 문장에서 줄 바꿈.
 
-<!--주석처리입니다.
+<!--주석처리입니다.!--> 
 
---!> 
 
-<!- 내용 넣을거 넣고 '-' 뒤에 '-' 한 번 더 붙인후 뒤에 --!> 작성하면 주석처리 끝.
 
+"<!- 내용 넣을거 넣고 '-' 뒤에 '-' 한 번 더 붙인후 뒤에 !--> 작성하면 주석처리 끝.
+
+
+" [![이미지이름](이미지주소)](사진클릭시 이동하는 url) " <br/>
+사진 클릭시 해당 페이지로 넘어감
 
 ---
 ---
@@ -79,7 +82,7 @@ https://www.naver.com
 
 
 
-![image](https://user-images.githubusercontent.com/54736421/118617551-b5d24f80-b7fd-11eb-9ec6-4b93564eb93e.png)
+[![바위야야옹해봐](https://user-images.githubusercontent.com/54736421/118617551-b5d24f80-b7fd-11eb-9ec6-4b93564eb93e.png)](https://www.naver.com)
 
 # 바위귀여워어ㅓ
 
