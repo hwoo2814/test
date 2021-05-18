@@ -37,4 +37,4 @@
 ![image](https://user-images.githubusercontent.com/54736421/118617158-52e0b880-b7fd-11eb-8467-75e22ce03460.png)
 
 
-줄바꿈 <br/> 줄바꿈줄바꿈 <br/에 > 까지 붙여주면 문장에서 줄 바꿈.
+줄바꿈 <br/> 줄바꿈줄바꿈 <br/에 > 까지 붙여주면 문장에서 줄 바꿈. 난 html 몰라요
