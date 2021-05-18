@@ -46,3 +46,8 @@
 ![image](https://user-images.githubusercontent.com/54736421/118617551-b5d24f80-b7fd-11eb-9ec6-4b93564eb93e.png)
 
 # 바위귀여워어ㅓ
+
+
+<!--주석처리입니다.>
+
+<!-- 내용 넣을 것을 넣고 '>' 넣어주면 주석 처리됨
